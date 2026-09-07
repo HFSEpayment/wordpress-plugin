@@ -10,7 +10,7 @@
 3. Далее, переходим  «Woocommerce» –> « Настройки» –> «Платежи»
 4. Включаем «Прямой банковский перевод», «Чековые платежи», «Оплата при доставке», «HB epPay Gateway» .
 5. В «HB epPay Gateway» выбираем «Установить»:
-   - Выберите «Enable Misha gateway»
+   - Выберите «Enable HBepay Gateway»
    - Title (название HB pay)
    - Description (описание)
    - Client ID: (выдается банком)
